@@ -13,7 +13,7 @@ function stringParaBinario ($string) {
 }
 
   //Exemplo de Uso
-  $frase = "Olá Mundo!";
+  $frase = "Arthur Ferreira Vieira!";
   $fraseBinario = stringParaBinario($frase);
 
   //Exibindo a frase original e sua versão binparia
